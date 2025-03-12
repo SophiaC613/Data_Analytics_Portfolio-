@@ -1,28 +1,20 @@
-# Data_Analytics_Portfolio-
-This portfolio contains data analytics projects focused on financial performance, business strategy, and marketing effectiveness. The projects include data cleaning, visualization, statistical analysis, and predictive modeling.
-##  Projects Overview  
 
-### 1️ **S&P 500 Data Analysis**  
-- ** Objective**: Analyze historical S&P 500 stock market trends to identify key financial indicators.  
-- **Tech Stack**: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook  
-- **Key Insights**:  
-  - Stock performance trends and volatility analysis  
-  - Market movement correlation with macroeconomic factors  
 
----
+## 📂 Projects  
+
+### 1️**S&P 500 Data Analysis**  
+- **Objective**: Analyze stock market trends and key financial indicators.  
+- **Tech**: Python, Pandas, Matplotlib  
+- **Notebook**: [View Project](./Project%201-%20S%26P%20500%20data%20analysis.ipynb)  
 
 ### 2️ **Business Performance Analysis**  
-- **Objective**: Evaluate key business metrics to understand operational efficiency and profitability.  
-- ** Tech Stack**: Python (Pandas, NumPy), Jupyter Notebook  
-- **Key Insights**:  
-  - Revenue and cost structure analysis  
-  - Performance benchmarking for business optimization  
+- **Objective**: Evaluate key business metrics and operational efficiency.  
+- **Tech**: Python, Pandas, NumPy  
+- **Notebook**: [View Project](./Project%202%20Bussiness%20Performance.ipynb)  
+
+### 3️ **Social Media Ad ROI Analysis**  
+- **Objective**: Assess Instagram & Twitter ad effectiveness based on ROI.  
+- **Tech**: Python, Pandas, Scikit-learn  
+- **Notebook**: [View Project](./Project%203%20Social%20Media%20Advertisement%20ROI%20Analysis.ipynb)  
 
 ---
-
-### 3️ **Social Media Advertisement ROI Analysis**  
-- ** Objective**: Assess the effectiveness of Instagram & Twitter advertisements based on Return on Investment (ROI).  
-- ** Tech Stack**: Python (Pandas, Scikit-learn), Jupyter Notebook  
-- ** Key Insights**:  
-  - Ad performance metrics and customer engagement analysis  
-  - ROI optimization strategies for digital marketing campaigns  
